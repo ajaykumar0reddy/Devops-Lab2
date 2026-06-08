@@ -9,6 +9,6 @@ Changed for git branch
 Welcome to my world 
 
 
-Testing
+checking git reset command
 
 
